@@ -9,7 +9,7 @@ gem 'yajl-ruby'
 gem 'couchbase', '~> 1.2.0'
 gem 'couchbase-model', '~> 0.5.1'
 gem 'rdiscount'
-gem 'omniauth'
+gem 'omniauth', '>= 2.0.0'
 gem 'omniauth-twitter'
 
 gem 'capistrano'
