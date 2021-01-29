@@ -10,7 +10,7 @@ gem 'couchbase', '~> 1.2.0'
 gem 'couchbase-model', '~> 0.5.1'
 gem 'rdiscount'
 gem 'omniauth'
-gem 'omniauth-twitter'
+gem 'omniauth-twitter', '>= 0.0.14'
 
 gem 'capistrano'
 
