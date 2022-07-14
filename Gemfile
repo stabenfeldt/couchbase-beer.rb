@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 3.2.8'
+gem 'rails', '~> 5.2.8', '>= 5.2.8.1'
 
 gem "eventmachine", "~> 1.0.0"
 gem 'thin', "~> 1.5.0"
