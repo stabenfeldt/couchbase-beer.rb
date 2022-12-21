@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 3.2.8'
+gem 'rails', '~> 4.0.0'
 
 gem "eventmachine", "~> 1.0.0"
 gem 'thin', "~> 1.5.0"
@@ -15,7 +15,7 @@ gem 'omniauth-twitter'
 gem 'capistrano'
 
 group :assets do
-  gem 'sass-rails', '~> 3.2.3'
+  gem 'sass-rails', '~> 4.0.0'
   gem 'uglifier', '>= 1.0.3'
 end
 
